@@ -11,7 +11,9 @@ This project brings it all together using a **real dataset of 2024 data science 
 
 ## 📸 Preview
 
-![Dashboard Preview](day5.gif)
+<p align="center">
+  <img src="day5.gif" alt="Dashboard Preview" width="700" height="400" />
+</p>
 
 
 ---
@@ -42,14 +44,29 @@ This project brings it all together using a **real dataset of 2024 data science 
 ### 🎨 Dashboard Design
 - Designed with user experience in mind  
 - Two-page layout:  
-  - 📄 **Page 1**: High-level overview
-      ![Dashboard Preview](snap1.gif)
+  
+ ---
 
-    
-    
-  - 📄 **Page 2**: Job Role Drill-Through Analysis
-    ![Dashboard Preview](snap2.gif)
+##  📄 **Page 1**: High-level overview
 
+<p align="center">
+  <img src="snap1.gif" alt="Dashboard Preview" width="700" height="400" />
+</p>
+
+
+---
+
+---
+
+## 📄 **Page 2**: Job Title Drill Through
+
+<p align="center">
+  <img src="snap2.gif" alt="Dashboard Preview" width="700" height="400" />
+</p>
+
+
+---
+    
 ---
 
 ## 📚 Course Info
